@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+
+<!-- KH - COLT -->
+	<string id="prebackstory.spc_wanderer_untested_0" text="{=xSbEUPK4}You suppose because you find me in this place, I must have a tale of woe to tell?" />
+    <string id="backstory_a.spc_wanderer_untested_0" text="{=ifBURmmv}Bah! My only curse is too much talent. Whatever I try my hand at, it seems I must do excellently. Hunting, fighting, letters, women - oh, the women. Everything comes to me so easily." />
+    <string id="backstory_b.spc_wanderer_untested_0" text="{=WBE6MeCl}But in this primative age, it seems excellence only inspires jealousy. Jealous friends, jealous family, jealous teachers. And jealous husbands - those are worst of all." />
+    <string id="backstory_c.spc_wanderer_untested_0" text="{=hOsJjMZ8Speaking of which - you didn't see anyone on your way in, did you? Fat, bald? Very angry?" />
+    <string id="response_1.spc_wanderer_untested_0" text="{=31XTldnZ}It sounds like you could use a change of scenery." />
+    <string id="response_2.spc_wanderer_untested_0" text="{=l4A16aGs}It sounds like you're a womanizing braggart." />
+    <string id="backstory_d.spc_wanderer_untested_0" text="{=iYbBHXNA}I won't deny it! But take heed - whatever I do, I must do excellently." />
+    
+<!-- AS - URCHIN -->
+    <string id="prebackstory.spc_wanderer_untested_1" text="{=xSbEUPK4}If you're buying drinks, sure..." />
+    <string id="backstory_a.spc_wanderer_untested_1" text="{=ifBURmmv}Well, it all started the day I was born. I don't remember much, but I think it was a cold day. Not too cold, like sleeping in an empty grain sack on a doorstep in the middle of winter. Not that cold. But still, cold. My mother would have been there, I suppose. And then I was there as well. That was day one. Time for a refill, I think!" />
+    <string id="backstory_b.spc_wanderer_untested_1" text="{=WBE6MeCl}After that I was a baby for a few years. I don't remember it. I probably cried a lot, as babies do. Shit myself, that sort of thing. I do remember getting a splinter from a barn door, and thinking 'ow that hurts, I don't like it'. I've been that way about pain ever since, you know. I don't like it. Drink up chief, the next round's already here!" />
+    <string id="backstory_c.spc_wanderer_untested_1" text="{=hOsJjMZ8}Where was I? Oh yes. My second memory, as I recall, was of a horse. It was a big horse. Not the biggest horse you've ever seen, probably, depending on which horses you've seen, but all the same. A reasonably big horse. It had eyes, and teeth, and legs, and fur, and..." />
+    <string id="response_1.spc_wanderer_untested_1" text="{=31XTldnZ}I get the idea." />
+    <string id="response_2.spc_wanderer_untested_1" text="{=l4A16aGs}I've heard enough. You're wasting my time." />
+    <string id="backstory_d.spc_wanderer_untested_1" text="{=iYbBHXNA}Imagine my disappointment. We were just getting to the good part!" />
+
+<!-- VL - BASTARD -->
+	<string id="prebackstory.spc_wanderer_untested_2" text="{=xSbEUPK4}If you insist. But be warned, stranger, it's likely nothing you haven't heard before." />
+    <string id="backstory_a.spc_wanderer_untested_2" text="{=ifBURmmv}I am the bastard son of a wealthy coward, raised in secret by my meek and foolish mother." />
+    <string id="backstory_b.spc_wanderer_untested_2" text="{=WBE6MeCl}When my father grew ill, he confessed my existence to his family. His trueborn sons became afraid, thinking I would make my claim to his fortune. They tried to have me killed. But while they were leading lives of idle indulgence, I had been toiling to survive - I had grown strong." />
+    <string id="backstory_c.spc_wanderer_untested_2" text="{=hOsJjMZ8}I took my grievance to the Headman of the village. To avoid a scandal, he had me banished. It did not matter that I had done nothing wrong." />
+    <string id="response_1.spc_wanderer_untested_2" text="{=31XTldnZ}Fate has been cruel to you." />
+    <string id="response_2.spc_wanderer_untested_2" text="{=l4A16aGs}It was a mistake to trust the Headman. You should have struck at your brothers directly, without warning." />
+    <string id="backstory_d.spc_wanderer_untested_2" text="{=iYbBHXNA}Perhaps that's true. It hardly matters." />
+
+<!-- BAT - UNMARKED -->
+    <string id="prebackstory.spc_wanderer_untested_3" text="{=xSbEUPK4}It is a painful story to tell..." />
+    <string id="backstory_a.spc_wanderer_untested_3" text="{=ifBURmmv}My family were traders. I grew up on caravan trails, always moving, only a wagon to call home. We didn't have much, but we had enough to be happy." />
+    <string id="backstory_b.spc_wanderer_untested_3" text="{=WBE6MeCl}One summer we were making our return from the South, our wagon filled with Aserai linen. Just half a day's ride from Seonon, when the raiders struck. I remember the sound of a horn, my mother shouting. The wagon began to tip over. Then... nothing." />
+    <string id="backstory_c.spc_wanderer_untested_3" text="{=hOsJjMZ8}I woke up under the ruined wagon, covered by a pile of smouldering linen. Everybody else was dead, but the raiders never found me. As I walked to town alone, I couldn't help but think - my whole life had been taken from me, but I was left without a scratch." />
+    <string id="response_1.spc_wanderer_untested_3" text="{=31XTldnZ}That is a tragic tale, my lady." />
+    <string id="response_2.spc_wanderer_untested_3" text="{=l4A16aGs}You were lucky. You should be grateful." />
+    <string id="backstory_d.spc_wanderer_untested_3" text="{=iYbBHXNA}If you say so. I'm sure it happens every day, to somebody out there." />
+
+<!-- ST - PEON -  -->
+    <string id="prebackstory.spc_wanderer_untested_4" text="{=xSbEUPK4}I would be honoured, m'lord." />
+    <string id="backstory_a.spc_wanderer_untested_4" text="{=ifBURmmv}Me, I'm a mucker. That means I'm dumb as muck, and I work in muck, and I'm happy as a hog in muck as well. My Pa was a mucker, and his Pa was a mucker too, and his Pa, you guessed it, he was also a mucker as well. Long, long line of muckers." />
+    <string id="backstory_b.spc_wanderer_untested_4" text="{=WBE6MeCl}The trouble is, while I'm seeing to the muck, the people who own the muck go and do stupid things, like get betrayed by close friends or ride their horse wrong or get too old to be alive any more. Then they're dead, then I bury them in the muck, and then there's no more mucker's work left to do." />
+    <string id="backstory_c.spc_wanderer_untested_4" text="{=hOsJjMZ8}You can't just start mucking about for no reason, can you? That would be crazy." />
+    <string id="response_1.spc_wanderer_untested_4" text="{=31XTldnZ}Take heart, mucker. A man with your enthusiasm won't go long without a job." />
+    <string id="response_2.spc_wanderer_untested_4" text="{=l4A16aGs}You smell like a dead dog. And not a fresh one." />
+    <string id="backstory_d.spc_wanderer_untested_4" text="{=iYbBHXNA}True, very true. That's mucker's work for you!" />
+
+    <!-- EMP - STUDENT -->
+    <string id="prebackstory.spc_wanderer_untested_5" text="{=xSbEUPK4}Why certainly! That is what people do in places like this, after all." />
+    <string id="backstory_a.spc_wanderer_untested_5" text="{=ifBURmmv}Penrose is the name. I am a student of the natural sciences. But please, don't call me a scholar. Those lazy good-for-nothings give learning a bad name! Spending all their time closeted in their studies, stretching their necks over dusty tomes, pah!" />
+    <string id="backstory_b.spc_wanderer_untested_5" text="{=WBE6MeCl}True scientists don't read books, we write them! And that means getting outside, going out into the world, putting theories to the test. Not something you can do in the cozy confines of a university. If anything I'm glad they kicked me out!" />
+    <string id="backstory_c.spc_wanderer_untested_5" text="{=hOsJjMZ8}The stipend was nice, though. I do miss the stipend. Say, you wouldn't know of a good way to make money using only knowledge, would you?" />
+    <string id="response_1.spc_wanderer_untested_5" text="{=31XTldnZ}Knowledge can worth a lot of money to the right person." />
+    <string id="response_2.spc_wanderer_untested_5" text="{=l4A16aGs}It depends on the knowledge. There's a lot to know about armed robbery, for example." />
+    <string id="backstory_d.spc_wanderer_untested_5" text="{=iYbBHXNA}Why you're right! I could enter into a commensal relationship with a troop of armed men, sharing my skill with the academic arts for their skill with procuring food and money! What a fantastic idea." />
+
+    </strings>
+</base>

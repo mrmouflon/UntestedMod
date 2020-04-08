@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<!-- 
+Voice: Curt Earnest Ironic Softspoken
+
+Rep: Mercy Valor Honor Generosity Caculating 
+
+Build: MuscularBuild LightBuild HeavyBuild OutOfShapeBuild
+
+Hair: RomanHair FrankishHair CelticHair ArabianHair SteppeHair
+
+ -->
+
+
+<!-- KHUZAIT - The Colt -->
+
+  <NPCCharacter id="spc_wanderer_untested_0" name="{=bvjFhiDr}the Colt" voice="curt" age="10" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" battleTemplate="NPCCharacter.npc_companion_equipment_template_khuzait" civilianTemplate="NPCCharacter.npc_companion_equipment_template_khuzait" occupation="Wanderer">
+    <face>
+      <face_key_template value="NPCCharacter.villager_khuzait" />
+
+    </face>
+    
+
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="LightBuild" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+  
+    <skills>
+      <skill id="OneHanded" value="20" />
+      <skill id="TwoHanded" value="10" />
+      <skill id="Polearm" value="10" />
+      
+      <skill id="Bow" value="34" />
+      <skill id="Crossbow" value="5" />
+      <skill id="Throwing" value="10" />
+
+      <skill id="Riding" value="40" />
+      <skill id="Athletics" value="10" />
+      <skill id="Crafting" value="0" />
+
+      <skill id="Scouting" value="20" />
+      <skill id="Tactics" value="5" />
+      <skill id="Roguery" value="20" />
+
+      <skill id="Charm" value="20" />
+      <skill id="Leadership" value="10" />
+      <skill id="Trade" value="10" />
+      
+      <skill id="Steward" value="10" />
+      <skill id="Medicine" value="25" />
+      <skill id="Engineering" value="0" />
+    </skills>
+  </NPCCharacter>
+
+<!-- ASERAI - THE URCHIN -->
+
+<NPCCharacter id="spc_wanderer_untested_1" name="{=yr5pa0hs}the Urchin" voice="softspoken" is_template="true" age="2" is_female="true" default_group="Infantry" is_hero="false" level="5" culture="Culture.aserai" battleTemplate="NPCCharacter.npc_companion_equipment_template_aserai" civilianTemplate="NPCCharacter.npc_companion_equipment_template_aserai" occupation="Wanderer">
+    <face>
+        <face_key_template value="NPCCharacter.townswoman_aserai" />
+
+    </face>
+
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="LightBuild" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="2" />
+    </Traits>
+    
+    <skills>
+      <skill id="OneHanded" value="12" />
+      <skill id="TwoHanded" value="12" />
+      <skill id="Polearm" value="12" />
+      
+      <skill id="Bow" value="15" />
+      <skill id="Crossbow" value="12" />
+      <skill id="Throwing" value="15" />
+
+      <skill id="Riding" value="20" />
+      <skill id="Athletics" value="16" />
+      <skill id="Crafting" value="0" />
+
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="0" />
+      <skill id="Roguery" value="36" />
+
+      <skill id="Charm" value="20" />
+      <skill id="Leadership" value="0" />
+      <skill id="Trade" value="18" />
+      
+      <skill id="Steward" value="18" />
+      <skill id="Medicine" value="18" />
+      <skill id="Engineering" value="0" />
+    </skills>
+  </NPCCharacter>
+
+<!-- VLANDIA - THE BASTARD -->
+
+<NPCCharacter id="spc_wanderer_untested_2" name="{=8o5SDCCJ}the Bastard" voice="ironic" default_group="Infantry" age="20" is_hero="false" is_template="true" culture="Culture.vlandia" battleTemplate="NPCCharacter.npc_companion_equipment_template_empire" civilianTemplate="NPCCharacter.npc_companion_equipment_template_empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="NPCCharacter.townsman_vlandia" />
+
+    </face>
+
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="FrankishHair" value="1" />
+      <Trait id="HeavyBuild" value="1" />
+
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+
+     <skills>
+      <skill id="OneHanded" value="16" />
+      <skill id="TwoHanded" value="30" />
+      <skill id="Polearm" value="20" />
+      
+      <skill id="Bow" value="20" />
+      <skill id="Crossbow" value="30" />
+      <skill id="Throwing" value="10" />
+
+      <skill id="Riding" value="40" />
+      <skill id="Athletics" value="26" />
+      <skill id="Crafting" value="0" />
+
+      <skill id="Scouting" value="22" />
+      <skill id="Tactics" value="40" />
+      <skill id="Roguery" value="0" />
+
+      <skill id="Charm" value="30" />
+      <skill id="Leadership" value="30" />
+      <skill id="Trade" value="0" />
+      
+      <skill id="Steward" value="0" />
+      <skill id="Medicine" value="0" />
+      <skill id="Engineering" value="0" />
+    </skills>
+</NPCCharacter>
+
+<!-- BATTANIA - THE UNMARKED -->
+
+  <NPCCharacter id="spc_wanderer_untested_3" name="{=bvjFhiDr}the Unmarked" voice="earnest"  is_template="true" default_group="Infantry" is_hero="false" is_female="true" culture="Culture.battania" battleTemplate="NPCCharacter.npc_companion_equipment_template_battania" civilianTemplate="NPCCharacter.npc_companion_equipment_template_battania" occupation="Wanderer">
+    <face>
+      <face_key_template value="NPCCharacter.villager_battania" />
+
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="CelticHair" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+  
+    <skills>
+      <skill id="OneHanded" value="20" />
+      <skill id="TwoHanded" value="10" />
+      <skill id="Polearm" value="10" />
+      
+      <skill id="Bow" value="10" />
+      <skill id="Crossbow" value="10" />
+      <skill id="Throwing" value="15" />
+
+      <skill id="Riding" value="29" />
+      <skill id="Athletics" value="10" />
+      <skill id="Crafting" value="0" />
+
+      <skill id="Scouting" value="0" />
+      <skill id="Tactics" value="0" />
+      <skill id="Roguery" value="0" />
+
+      <skill id="Charm" value="20" />
+      <skill id="Leadership" value="10" />
+      <skill id="Trade" value="20" />
+      
+      <skill id="Steward" value="30" />
+      <skill id="Medicine" value="30" />
+      <skill id="Engineering" value="0" />
+    </skills>
+  </NPCCharacter>
+
+<!-- STURGIA - THE PEON -->
+
+  <NPCCharacter id="spc_wanderer_untested_4" name="{=bvjFhiDr}the Peon" voice="earnest"  is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" battleTemplate="NPCCharacter.npc_companion_equipment_template_sturgia" civilianTemplate="NPCCharacter.npc_companion_equipment_template_sturgia" occupation="Wanderer">
+    <face>
+      <face_key_template value="NPCCharacter.villager_sturgia" />
+
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RusHair" value="1" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+  
+    <skills>
+      <skill id="OneHanded" value="12" />
+      <skill id="TwoHanded" value="12" />
+      <skill id="Polearm" value="11" />
+      
+      <skill id="Bow" value="10" />
+      <skill id="Crossbow" value="10" />
+      <skill id="Throwing" value="15" />
+
+      <skill id="Riding" value="0" />
+      <skill id="Athletics" value="20" />
+      <skill id="Crafting" value="15" />
+
+      <skill id="Scouting" value="12" />
+      <skill id="Tactics" value="12" />
+      <skill id="Roguery" value="12" />
+
+      <skill id="Charm" value="10" />
+      <skill id="Leadership" value="15" />
+      <skill id="Trade" value="10" />
+      
+      <skill id="Steward" value="28" />
+      <skill id="Medicine" value="10" />
+      <skill id="Engineering" value="0" />
+    </skills>
+  </NPCCharacter>
+
+<!-- EMPIRE - STUDENT? -->
+  <NPCCharacter id="spc_wanderer_untested_5" name="{=bvjFhiDr}Penrose" voice="earnest"  is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" battleTemplate="NPCCharacter.npc_companion_equipment_template_empire" civilianTemplate="NPCCharacter.npc_companion_equipment_template_empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="NPCCharacter.villager_empire" />
+
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+  
+    <skills>
+      <skill id="OneHanded" value="10" />
+      <skill id="TwoHanded" value="10" />
+      <skill id="Polearm" value="15" />
+      
+      <skill id="Bow" value="10" />
+      <skill id="Crossbow" value="10" />
+      <skill id="Throwing" value="15" />
+
+      <skill id="Riding" value="19" />
+      <skill id="Athletics" value="15" />
+      <skill id="Crafting" value="0" />
+
+      <skill id="Scouting" value="10" />
+      <skill id="Tactics" value="15" />
+      <skill id="Roguery" value="10" />
+
+      <skill id="Charm" value="20" />
+      <skill id="Leadership" value="10" />
+      <skill id="Trade" value="20" />
+      
+      <skill id="Steward" value="0" />
+      <skill id="Medicine" value="20" />
+      <skill id="Engineering" value="30" />
+    </skills>
+  </NPCCharacter>
+</NPCCharacters>

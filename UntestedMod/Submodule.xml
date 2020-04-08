@@ -1,0 +1,48 @@
+ <Module>
+     <Name value="Untested Companions"/>
+     <Id value="UntestedMod"/>
+     <Version value="v1.0.0"/>
+     <SingleplayerModule value="true"/>
+     <MultiplayerModule value="false"/>
+     <DependedModules>
+		    <DependedModule Id="Native"/>
+		    <DependedModule Id="SandBoxCore"/>
+		    <DependedModule Id="Sandbox"/>
+		    <DependedModule Id="CustomBattle"/>
+		    <DependedModule Id="StoryMode" />
+		</DependedModules> -->
+     <SubModules>
+     	<SubModule>
+			<Name value = "UntestedMod"/>
+			<DLLName value = "UntestedMod.dll"/>
+			<SubModuleClassType value = "UntestedMod.MySubModule"/>			
+			<Tags>
+				<Tag key="DedicatedServerType" value ="none" />
+				<Tag key="IsNoRenderModeElement" value ="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
+     <Xmls>
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="untestedcharactersAll"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "Sandbox"/>
+				<GameType value = "SandBoxCore"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>   
+		<!-- <XmlNode>                
+			<XmlName id="NPCCharacters" path="untestedcharactertemplates"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "Sandbox"/>
+				<GameType value = "SandBoxCore"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode> -->
+		
+		
+</Xmls>
+		
+ </Module>
